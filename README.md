@@ -400,7 +400,8 @@ Alzheimers-Disease-Prediction/
     ├── diagnosis_distribution.png
     ├── correlation_matrix.png
     ├── model_comparison.png
-    └── confusion_matrix.png
+    ├── app_interface
+
 ```
 
 ---
